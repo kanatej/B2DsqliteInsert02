@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\jkanate\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\jkanate\\.nuget\\packages"
+    ]
+  }
+}

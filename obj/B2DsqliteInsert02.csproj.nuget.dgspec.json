@@ -1,0 +1,93 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jkanate\\Documents\\GitHub\\BornToDev\\B2DsqliteInsert02\\B2DsqliteInsert02\\B2DsqliteInsert02.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jkanate\\Documents\\GitHub\\BornToDev\\B2DsqliteInsert02\\B2DsqliteInsert02\\B2DsqliteInsert02.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jkanate\\Documents\\GitHub\\BornToDev\\B2DsqliteInsert02\\B2DsqliteInsert02\\B2DsqliteInsert02.csproj",
+        "projectName": "B2DsqliteInsert02",
+        "projectPath": "C:\\Users\\jkanate\\Documents\\GitHub\\BornToDev\\B2DsqliteInsert02\\B2DsqliteInsert02\\B2DsqliteInsert02.csproj",
+        "packagesPath": "C:\\Users\\jkanate\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jkanate\\Documents\\GitHub\\BornToDev\\B2DsqliteInsert02\\B2DsqliteInsert02\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jkanate\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.Data.Sqlite.Core": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.NETCore.UniversalWindowsPlatform": {
+              "target": "Package",
+              "version": "[6.2.14, )"
+            },
+            "SQLitePCLRaw.bundle_winsqlite3": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Uno.UI": {
+              "target": "Package",
+              "version": "[4.4.13, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
